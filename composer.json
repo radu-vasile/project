@@ -1,0 +1,12 @@
+{
+    "name": "guest1/htdocs",
+    "authors": [
+        {
+            "name": "Radu Vasile",
+            "email": "radu.vasile9@yahoo.ro"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}

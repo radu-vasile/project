@@ -1,0 +1,21 @@
+[
+    {
+        "service": "Internet",
+        "price": 20
+    },
+
+    {
+        "service": "Television",
+        "price": 12
+    },
+
+    {
+        "service": "Mobile Phone",
+        "price": 15
+    },
+
+    {
+        "service": "Fixed Line Telephony",
+        "price": 23
+    }
+]
